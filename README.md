@@ -98,7 +98,7 @@ First, let's add a workflow to lint our Markdown files in this repository.
 <details id=2>
 <summary><h2>Step 2: Fix the test</h2></summary>
 
-_Great job adding the templated workflow! :tada:_
+Great job adding the templated workflow! :tada:
 
 Adding that file to this branch is enough for GitHub Actions to begin running CI on your repository.
 
@@ -126,7 +126,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
 
 1. Update the code in the `ci` branch to get the test to pass. You need to look something like this:
    ```markdown
-   _underscore_
+   underscore
    ```
 1. **Commit changes**.
 1. Wait about 20 seconds then refresh this page for the next step.
